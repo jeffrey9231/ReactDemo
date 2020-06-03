@@ -1,4 +1,4 @@
-# Rokt Demo App v1.0
+ct# React Demo App v1.0
 
 ## Installation
 
