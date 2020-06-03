@@ -1,4 +1,4 @@
-## React Demo App v1.0
+## React Demo App for lazy loading feature
 
 ## Installation
 
