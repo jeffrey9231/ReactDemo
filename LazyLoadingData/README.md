@@ -1,4 +1,4 @@
-ct# React Demo App v1.0
+## React Demo App v1.0
 
 ## Installation
 
