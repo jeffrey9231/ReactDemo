@@ -1,0 +1,17 @@
+.container {
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+
+.dataContainer {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.headerRow {
+  background-color: #bfbfbf;
+}
+
+.ant-row:nth-child(2n) {
+  background-color: #f0f0f0;
+}
